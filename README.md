@@ -4,7 +4,7 @@ From the [Skillfactory Data Science Course](https://skillfactory.ru/data-scienti
 
 ## Проекты
 
-* [Проект 0. Игра: Угадай число](https://github.com/AleksandraNa/Supernew/project_0)
+* [Проект 0. Игра: Угадай число](https://github.com/AleksandraNa/Supernew)
 * [Проект 1. ____________](________)
 * [Проект 2. ____________](________)
 
