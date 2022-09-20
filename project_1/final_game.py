@@ -27,9 +27,6 @@ while number_of_counts < 1000:
 
 average_count = average_count // 1000 # среднее число попыток угадывания за 1 цикл
 print(f"Выполнено 1000 раз, среднее число попыток угадывания {average_count}")
-<<<<<<< HEAD
 
 if __name__ == '__main__':
     average_count
-=======
->>>>>>> 4c881bed33dde8d4788788cdc68965182d73f4d7
